@@ -242,7 +242,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/SCU_HS_Jan2020_300x250_v3_atlas_.png", id:"SCU_HS_Jan2020_300x250_v3_atlas_"}
+		{src:"https://rnl-creatives.github.io/html-banner-test/images/SCU_HS_Jan2020_300x250_v3_atlas_.png", id:"SCU_HS_Jan2020_300x250_v3_atlas_"}
 	],
 	preloads: []
 };
